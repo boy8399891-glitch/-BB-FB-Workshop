@@ -3,6 +3,6 @@ pandas
 matplotlib
 scikit-learn
 numpy
-seabron
+seaborn
 joblib
 plotly
