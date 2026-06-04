@@ -20,5 +20,6 @@ elif st.button("💰 การวิเคราะห์ข้อมูลเ�
 elif st.button("💰 การพยากรณ์ยอดขายแบบง่าย"):
     st.switch_page("pages/sale_predict.py")
 elif st.button("💰 การพยากาณ์ระยะเวลาการให้บริการขนส่ง"):
+    st.markdown(''':rainbow[bbgun]''')
     st.switch_page("pages/truck_predict.py")
 
