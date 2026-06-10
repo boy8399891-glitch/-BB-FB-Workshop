@@ -21,4 +21,6 @@ elif st.button("💰 การพยากรณ์ยอดขายแบบ�
     st.switch_page("pages/sale_predict.py")
 elif st.button("💰 การพยากาณ์ระยะเวลาการให้บริการขนส่ง"):
     st.switch_page("pages/truck_predict.py")
+elif st.button("💰 การจัดกลุ่มข้อมูลจากข้อมูลลูกค้า"):
+    st.switch_page("pages/clustering_segment.py")
 
