@@ -23,5 +23,4 @@ elif st.button("💰 การพยากาณ์ระยะเวลาก�
     st.switch_page("pages/truck_predict.py")
 elif st.button("💰 การพยากาณ์ระยะเวลาการให้บริการขนส่ง"):
     st.switch_page("pages/truck_predict.py")
-elif st.button("💰 "การจัดการข้อมูลลูกค้า"):
-    st.switch_page("pages/clustering_segment.py")
+
